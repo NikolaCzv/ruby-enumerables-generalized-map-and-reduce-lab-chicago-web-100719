@@ -8,6 +8,6 @@ end
 return new 
 end
 
-def reduce(source_array, starting_point)
-  
+def reduce(source_array, starting_point = 0)
+
 end
