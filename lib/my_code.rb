@@ -15,4 +15,5 @@ if starting_point
 else 
   num1 = source_array[0] 
   i = 1 
+  
 end
