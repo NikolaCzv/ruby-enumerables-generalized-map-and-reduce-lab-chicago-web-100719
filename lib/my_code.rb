@@ -18,6 +18,6 @@ else
 end
 
 while i < source_array.length do 
-  
+  yield(num1)
 
 end
